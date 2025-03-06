@@ -1,0 +1,13 @@
+// font-[family-name:var(--font-plus-jakarta-sans)]
+// font-[family-name:var(--font-urbanist)]
+// font-[family-name:var(--font-poppins)]
+
+tasks:
+- [x] make app router
+- [x] make login page ui
+- [x] validate using react-hook-form
+- [x] make pop for sms verification ux
+- [x] animate the login page using framer motion
+- [x] animate the otp modal using framer motion
+- [] fix lagging in phone input
+- [] deploy the app and push to github (:
