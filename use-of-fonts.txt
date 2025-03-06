@@ -9,5 +9,5 @@ tasks:
 - [x] make pop for sms verification ux
 - [x] animate the login page using framer motion
 - [x] animate the otp modal using framer motion
-- [] fix lagging in phone input
-- [] deploy the app and push to github (:
+- [x] fix lagging in phone input
+- [x] deploy the app and push to github (:
